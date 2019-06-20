@@ -9,6 +9,7 @@ def countdown(countdown_output)
 end
 
 
-def countdown_with_sleep
+def countdown_with_sleep(countdown)
+  countdown
   
 end
