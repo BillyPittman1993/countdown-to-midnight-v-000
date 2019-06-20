@@ -5,4 +5,7 @@ def countdown(countdown_output)
     puts "#{countdown_output} SECOND(S)!"
     countdown_output  -= 1 
   end
+  return 
 end
+
+
